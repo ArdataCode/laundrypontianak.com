@@ -1,0 +1,18 @@
+# MalCare WAF
+<IfModule LiteSpeed>
+  php_value auto_prepend_file '/home/u1567848/public_html/laundrypontianak.com/malcare-waf.php'
+</IfModule>
+<IfModule lsapi_module>
+  php_value auto_prepend_file '/home/u1567848/public_html/laundrypontianak.com/malcare-waf.php'
+</IfModule>
+<Files ".user.ini">
+<IfModule mod_authz_core.c>
+  Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+  Order deny,allow
+  Deny from all
+</IfModule>
+</Files>
+
+# END MalCare WAF

@@ -1,0 +1,1491 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 08:47:09
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |8.1.20
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.20 | SAPI: fpm-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.57 (Debian)
+DOC ROOT____________: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+REQUEST URL_________: "https://laundrypontianak.com"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+URL_NEW_____________: "https://laundrypontianak.com"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/20230616_laundrypontianak_[HASH]_20230616033038_archive.zip"
+ARCHIVE SIZE________: 116.84MB
+CREATED_____________: 2023-06-16 03:30:38
+WP VERSION__________: 6.2.2
+DUP VERSION_________: 4.5.7
+LICENSE_____________: Business or Gold
+DB VERSION__________: 10.4.20
+DB FILE SIZE________: 34.53MB
+DB TABLES___________: 47
+DB ROWS_____________: 13573
+URL HOME____________: https://laundrypontianak.com
+URL CORE____________: https://laundrypontianak.com
+URL CONTENT_________: https://laundrypontianak.com/wp-content
+URL UPLOAD__________: https://laundrypontianak.com/wp-content/uploads
+URL PLUGINS_________: https://laundrypontianak.com/wp-content/plugins
+URL MU PLUGINS______: https://laundrypontianak.com/wp-content/mu-plugins
+URL THEMES__________: https://laundrypontianak.com/wp-content/themes
+PATH HOME___________: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html
+PATH ABS____________: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html
+PATH WPCONFIG_______: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html
+PATH WPCONTENT______: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html/wp-content
+PATH UPLOADS________: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html/wp-content/uploads
+PATH PLUGINS________: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "laundrypontianak.com/"
+
+PLUGINS
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:false]  Akismet Anti-Spam
+PLUGIN [SLUG:breeze/breeze.php                                 ][ON:false]  Breeze
+PLUGIN [SLUG:bv-cloudways-automated-migration/cloudways.php    ][ON:true ]  Cloudways WordPress Migrator
+PLUGIN [SLUG:copy-delete-posts/copy-delete-posts.php           ][ON:true ]  Copy & Delete Posts
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:false]  Duplicator
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:header-footer-elementor/header-footer-elementor.php][ON:true ]  Elementor Header & Footer Builder
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ]  Elementor Pro
+PLUGIN [SLUG:elementskit-lite/elementskit-lite.php             ][ON:true ]  ElementsKit Lite
+PLUGIN [SLUG:envato-elements/envato-elements.php               ][ON:true ]  Envato Elements
+PLUGIN [SLUG:health-check/health-check.php                     ][ON:true ]  Health Check & Troubleshooting
+PLUGIN [SLUG:hello.php                                         ][ON:false]  Hello Dolly
+PLUGIN [SLUG:creame-whatsapp-me/joinchat.php                   ][ON:true ]  Joinchat
+PLUGIN [SLUG:malcare-security/malcare.php                      ][ON:true ]  MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Firewall
+PLUGIN [SLUG:metform/metform.php                               ][ON:true ]  MetForm
+PLUGIN [SLUG:google-site-kit/google-site-kit.php               ][ON:true ]  Site Kit by Google
+PLUGIN [SLUG:template-kit-import/template-kit-import.php       ][ON:true ]  Template Kit Import
+PLUGIN [SLUG:wordfence/wordfence.php                           ][ON:false]  Wordfence Security
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+PLUGIN [SLUG:health-check-troubleshooting-mode.php             ][ON:false]  Health Check Troubleshooting Mode
+
+********************************************************************************
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.04737]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.01430]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.01270]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00057]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00616]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+DATABASE CONNECTION EXCEPTION ERROR: Access denied for user 'launnddd'@'localhost' (using password: YES)
+[PHP ERR][E_WARNING] MSG:Undefined variable $dbflag [CODE:2|FILE:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/database/class.db.functions.php|LINE:156]
+
+INSTALLER ERROR:
+Unable to connect with the following parameters:
+HOST: "localhost"
+DBUSER: "launnddd"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'launnddd'@'localhost' (using password: YES)
+
+
+      TEST "Host Connection" EXCEPTION: Unable to connect with the following parameters:<br/>HOST: "localhost"
+DBUSER: "launnddd"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'launnddd'@'localhost' (using password: YES)[CODE:0]
+	FILE:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Utils/Log/Log.php[399]
+	TRACE:
+#0 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/database/class.db.functions.php(111): Duplicator\Installer\Utils\Log\Log::error()
+#1 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.database.service.php(70): DUPX_DB_Functions->dbConnection()
+#2 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.connection.php(27): DUPX_Validation_database_service->getDbConnection()
+#3 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.abstract.item.php(46): DUPX_Validation_test_db_connection->runTest()
+#4 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php(237): DUPX_Validation_abstract_item->test()
+#5 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php(210): DUPX_Validation_manager->runTests()
+#6 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(171): DUPX_Validation_manager->getValidateData()
+#7 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(96): DUPX_Ctrl_ajax::actions()
+#8 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/main.installer.php(47): DUPX_Ctrl_ajax::controller()
+#9 {main}
+
+LOG-TIME[DELTA:   0.00136]  MESSAGE:TEST "Host Connection" RESULT: failed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Version" RESULT: skip
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Engine Support" RESULT: skip
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database GTID Mode" RESULT: skip
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Visibility" RESULT: skip
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Multiple WP Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.01292]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.00559]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00518]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+DATABASE CONNECTION EXCEPTION ERROR: Access denied for user 'launnddd'@'localhost' (using password: YES)
+[PHP ERR][E_WARNING] MSG:Undefined variable $dbflag [CODE:2|FILE:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/database/class.db.functions.php|LINE:156]
+
+INSTALLER ERROR:
+Unable to connect with the following parameters:
+HOST: "localhost"
+DBUSER: "launnddd"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'launnddd'@'localhost' (using password: YES)
+
+
+      TEST "Host Connection" EXCEPTION: Unable to connect with the following parameters:<br/>HOST: "localhost"
+DBUSER: "launnddd"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'launnddd'@'localhost' (using password: YES)[CODE:0]
+	FILE:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Utils/Log/Log.php[399]
+	TRACE:
+#0 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/database/class.db.functions.php(111): Duplicator\Installer\Utils\Log\Log::error()
+#1 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.database.service.php(70): DUPX_DB_Functions->dbConnection()
+#2 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.connection.php(27): DUPX_Validation_database_service->getDbConnection()
+#3 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.abstract.item.php(46): DUPX_Validation_test_db_connection->runTest()
+#4 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php(237): DUPX_Validation_abstract_item->test()
+#5 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php(210): DUPX_Validation_manager->runTests()
+#6 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(171): DUPX_Validation_manager->getValidateData()
+#7 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(96): DUPX_Ctrl_ajax::actions()
+#8 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/main.installer.php(47): DUPX_Ctrl_ajax::controller()
+#9 {main}
+
+LOG-TIME[DELTA:   0.00164]  MESSAGE:TEST "Host Connection" RESULT: failed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Version" RESULT: skip
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Engine Support" RESULT: skip
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database GTID Mode" RESULT: skip
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Visibility" RESULT: skip
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Multiple WP Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.01082]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.08647]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.04029]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+DATABASE CONNECTION EXCEPTION ERROR: Access denied for user 'kpszpfvzfz'@'localhost' (using password: YES)
+[PHP ERR][E_WARNING] MSG:Undefined variable $dbflag [CODE:2|FILE:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/database/class.db.functions.php|LINE:156]
+
+INSTALLER ERROR:
+Unable to connect with the following parameters:
+HOST: "localhost"
+DBUSER: "kpszpfvzfz"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'kpszpfvzfz'@'localhost' (using password: YES)
+
+
+      TEST "Host Connection" EXCEPTION: Unable to connect with the following parameters:<br/>HOST: "localhost"
+DBUSER: "kpszpfvzfz"
+DATABASE: NULL
+MESSAGE: Error: Access denied for user 'kpszpfvzfz'@'localhost' (using password: YES)[CODE:0]
+	FILE:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Utils/Log/Log.php[399]
+	TRACE:
+#0 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/database/class.db.functions.php(111): Duplicator\Installer\Utils\Log\Log::error()
+#1 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.database.service.php(70): DUPX_DB_Functions->dbConnection()
+#2 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.connection.php(27): DUPX_Validation_database_service->getDbConnection()
+#3 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.abstract.item.php(46): DUPX_Validation_test_db_connection->runTest()
+#4 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php(237): DUPX_Validation_abstract_item->test()
+#5 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php(210): DUPX_Validation_manager->runTests()
+#6 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(171): DUPX_Validation_manager->getValidateData()
+#7 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php(96): DUPX_Ctrl_ajax::actions()
+#8 /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/main.installer.php(47): DUPX_Ctrl_ajax::controller()
+#9 {main}
+
+LOG-TIME[DELTA:   0.01330]  MESSAGE:TEST "Host Connection" RESULT: failed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Version" RESULT: skip
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Engine Support" RESULT: skip
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database GTID Mode" RESULT: skip
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Visibility" RESULT: skip
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Multiple WP Installs" RESULT: skip
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Resources" RESULT: skip
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: User Table Access" RESULT: skip
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: skip
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: skip
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and Collation Support" RESULT: skip
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: skip
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: skip
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Prefix too long" RESULT: skip
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.01467]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00018]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.00572]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00021]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00922]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00090]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00348]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00097]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00127]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00033]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00167]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/database/class.db.php:646] MSG: SELECT command denied to user 'kpszpfvzfz'@'localhost' for table 'user'
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'kpszpfvzfz' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.database.service.php[979]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php[237]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/classes/validation/class.validation.manager.php[210]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[171]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[96]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/main.installer.php[47]
+
+LOG-TIME[DELTA:   0.00058]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.05240]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00140]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00627]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00141]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00048]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: soft warning
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00033]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 09:22:31
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Laundry Pontianak"
+HOME URL NEW________: "https://laundrypontianak.com"
+SITE URL NEW________: "https://laundrypontianak.com"
+CONTENT URL NEW_____: "https://laundrypontianak.com/wp-content"
+UPLOAD URL NEW______: "https://laundrypontianak.com/wp-content/uploads"
+PLUGINS URL NEW_____: "https://laundrypontianak.com/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://laundrypontianak.com/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+SITE PATH NEW_______: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+CONTENT PATH NEW____: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/wp-content"
+UPLOAD PATH NEW_____: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer"
+	FILE: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/20230616_laundrypontianak_[HASH]_20230616033038_installer-backup.php"
+	FILE: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/20230616_laundrypontianak_[HASH]_20230616033038_archive.zip"
+	FILE: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/installer.php"
+	FILE: "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer-bootlog__c811388-16033038.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20230616_laundrypontianak_[HASH]_20230616033038_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+FILE EXTRACTION: done processing last file in list of 16380
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 09:22:33 - RUNTIME: 2.7519 sec. - Files processed: 15,496 of 15,496
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 09:22:33
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_bv_fw_requests]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_bv_lp_requests]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_entities]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_packages]
+TABLE "wp_e_events"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_e_submissions"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_submissions]
+TABLE "wp_e_submissions_actions_log"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_submissions_actions_log]
+TABLE "wp_e_submissions_values"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_submissions_values]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     297] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:    4645] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:     756] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_termmeta"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:      61] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:      45] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfblockediplog]
+TABLE "wp_wfblocks7"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfblocks7]
+TABLE "wp_wfconfig"_____________________________________[ROWS:     258] [EXTRACT|REPLACE] [INST NAME: wp_wfconfig]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfcrawlers]
+TABLE "wp_wffilechanges"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wffilechanges]
+TABLE "wp_wffilemods"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wffilemods]
+TABLE "wp_wfhits"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhits]
+TABLE "wp_wfhoover"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfhoover]
+TABLE "wp_wfissues"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfissues]
+TABLE "wp_wfknownfilelist"______________________________[ROWS:    7518] [EXTRACT|REPLACE] [INST NAME: wp_wfknownfilelist]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflivetraffichuman]
+TABLE "wp_wflocs"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflocs]
+TABLE "wp_wflogins"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wflogins]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfls_2fa_secrets]
+TABLE "wp_wfls_settings"________________________________[ROWS:      21] [EXTRACT|REPLACE] [INST NAME: wp_wfls_settings]
+TABLE "wp_wfnotifications"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfnotifications]
+TABLE "wp_wfpendingissues"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfpendingissues]
+TABLE "wp_wfreversecache"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfreversecache]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfsnipcache]
+TABLE "wp_wfstatus"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wfstatus]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wftrafficrates]
+TABLE "wp_yoast_indexable"______________________________[ROWS:      21] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: wp_yoast_indexable_hierarchy]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wp_yoast_migrations]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_yoast_primary_term]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_yoast_seo_links]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.20 -- Build Server: 10.4.20
+FILE SIZE:	dup-database__[HASH].sql (24.16MB)
+TIMEOUT:	5000
+MAXPACK:	134217728
+SQLMODE-GLOBAL:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+DROP TABLE wp_bv_fw_requests
+DROP TABLE wp_bv_ip_store
+DROP TABLE wp_bv_lp_requests
+DROP TABLE wp_commentmeta
+DROP TABLE wp_comments
+DROP TABLE wp_links
+DROP TABLE wp_options
+DROP TABLE wp_postmeta
+DROP TABLE wp_posts
+DROP TABLE wp_term_relationships
+DROP TABLE wp_term_taxonomy
+DROP TABLE wp_termmeta
+DROP TABLE wp_terms
+DROP TABLE wp_usermeta
+DROP TABLE wp_users
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`kpszpfvzfz`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	15
+RENAMED TABLES:	0
+QUERIES RAN:	233
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:     0]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:     1]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     0]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     0]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:     5]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:     1]
+TABLE "wp_e_events"_____________________________________[ROWS:     0]
+TABLE "wp_e_submissions"________________________________[ROWS:     0]
+TABLE "wp_e_submissions_actions_log"____________________[ROWS:     0]
+TABLE "wp_e_submissions_values"_________________________[ROWS:     0]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   297]
+TABLE "wp_postmeta"_____________________________________[ROWS:  4645]
+TABLE "wp_posts"________________________________________[ROWS:   756]
+TABLE "wp_term_relationships"___________________________[ROWS:    61]
+TABLE "wp_term_taxonomy"________________________________[ROWS:     9]
+TABLE "wp_termmeta"_____________________________________[ROWS:     0]
+TABLE "wp_terms"________________________________________[ROWS:     9]
+TABLE "wp_usermeta"_____________________________________[ROWS:    45]
+TABLE "wp_users"________________________________________[ROWS:     1]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:     0]
+TABLE "wp_wfblocks7"____________________________________[ROWS:     0]
+TABLE "wp_wfconfig"_____________________________________[ROWS:   258]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:     0]
+TABLE "wp_wffilechanges"________________________________[ROWS:     0]
+TABLE "wp_wffilemods"___________________________________[ROWS:     0]
+TABLE "wp_wfhits"_______________________________________[ROWS:     0]
+TABLE "wp_wfhoover"_____________________________________[ROWS:     0]
+TABLE "wp_wfissues"_____________________________________[ROWS:     0]
+TABLE "wp_wfknownfilelist"______________________________[ROWS:  7518]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:     0]
+TABLE "wp_wflocs"_______________________________________[ROWS:     0]
+TABLE "wp_wflogins"_____________________________________[ROWS:     0]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:     0]
+TABLE "wp_wfls_settings"________________________________[ROWS:    21]
+TABLE "wp_wfnotifications"______________________________[ROWS:     0]
+TABLE "wp_wfpendingissues"______________________________[ROWS:     0]
+TABLE "wp_wfreversecache"_______________________________[ROWS:     0]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:     0]
+TABLE "wp_wfstatus"_____________________________________[ROWS:     0]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:     0]
+TABLE "wp_yoast_indexable"______________________________[ROWS:    21]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:    20]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:    24]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:     1]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:     0]
+
+INSERT DATA RUNTIME: 2.4952 sec.
+STEP-2 COMPLETE @ 09:22:36 - RUNTIME: 2.4952 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/1011084.cloudwaysapps.com/ttbmbmvput/public_html REPLACE: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 09:22:36
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 256M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wp_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:    47]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_bv_fw_requests"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_bv_lp_requests"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_bv_lp_requests][0]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_pro_entities"______________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wp_duplicator_pro_packages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_submissions"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_submissions_actions_log"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_submissions_values"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   250][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  4645][PG:   5][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][4]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   756][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    61][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    45][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wfblockediplog"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfblocks7"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfconfig"_____________________________________[ROWS:   258][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfconfig][0]
+
+EVALUATE TABLE: "wp_wfcrawlers"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilechanges"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilemods"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfhits"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfhoover"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfissues"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfknownfilelist"______________________________[ROWS:  7518][PG:   8][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][3]
+	
+STEP-3 CHUNK STOP @ 09:22:41 - RUNTIME: 5.1296 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][4]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][5]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][6]
+CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][7]
+
+EVALUATE TABLE: "wp_wflivetraffichuman"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflocs"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflogins"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_2fa_secrets"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_settings"________________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfls_settings][0]
+
+EVALUATE TABLE: "wp_wfnotifications"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfpendingissues"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfreversecache"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfsnipcache"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfstatus"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wftrafficrates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_indexable][0]
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS:    20][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_migrations][0]
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/1011084.cloudwaysapps.com/ttbmbmvput/public_html" => "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_primary_term][0]
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:47 	|	 Rows:13564 	|	 Cells:61830 
+UPDATED:	Tables:3 	|	 Rows:7525 	|	 Cells:7525 
+ERRORS:		0 
+RUNTIME:	9.316900 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/wp-config.php
+New .htaccess file created:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_PLUGIN_DIR "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/wp-content/plugins"
+	UPDATE WPMU_PLUGIN_DIR "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/wp-content/mu-plugins"
+	UPDATE DB_NAME ""kpszpfvzfz""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "false"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 0 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html"
+--------------------------------------
+[PHP ERR][E_WARNING] MSG:chmod(): Operation not permitted [CODE:2|FILE:/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/libs/Snap/SnapIO.php|LINE:789]
+CHMOD FAIL: /home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/ PERMS: 0755
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 09:22:45 - RUNTIME: 4.2604 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+====================================
+LOG-TIME[/home/1015240.cloudwaysapps.com/kpszpfvzfz/public_html/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.01826]  MESSAGE:END RENDER PAGE

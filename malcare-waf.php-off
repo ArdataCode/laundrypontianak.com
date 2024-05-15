@@ -1,0 +1,8 @@
+<?php
+// Please validate auto_prepend_file setting before removing this file
+
+if (file_exists('/home/u1567848/public_html/laundrypontianak.com/wp-content/plugins/malcare-security/protect/prepend/ignitor.php')) {
+	define("MCDATAPATH", '/home/u1567848/public_html/laundrypontianak.com/wp-content/mc_data/');
+	define("MCCONFKEY", '5b5653ae72d14d486d3dc72fc17a3963');
+	include_once('/home/u1567848/public_html/laundrypontianak.com/wp-content/plugins/malcare-security/protect/prepend/ignitor.php');
+}
